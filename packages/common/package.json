@@ -1,6 +1,6 @@
 {
   "name": "@lerna-example-repo/common",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "common...",
   "main": "index.js",
   "type": "module",

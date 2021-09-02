@@ -1,6 +1,6 @@
 {
   "name": "@lerna-example-repo/main",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "main...",
   "main": "index.js",
   "type": "module",
@@ -14,6 +14,6 @@
     "access": "public"
   },
   "dependencies": {
-    "@lerna-example-repo/common": "^1.0.0"
+    "@lerna-example-repo/common": "^1.0.1"
   }
 }
