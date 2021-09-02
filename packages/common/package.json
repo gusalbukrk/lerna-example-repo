@@ -1,0 +1,19 @@
+{
+  "name": "@lerna-example-repo/common",
+  "version": "0.0.0",
+  "description": "common...",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "gusalbukrk",
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "isomorphic-fetch": "^3.0.0"
+  }
+}

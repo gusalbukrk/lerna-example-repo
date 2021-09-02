@@ -1,0 +1,19 @@
+{
+  "name": "@lerna-example-repo/main",
+  "version": "0.0.0",
+  "description": "main...",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "gusalbukrk",
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@lerna-example-repo/common": "^1.0.0"
+  }
+}
